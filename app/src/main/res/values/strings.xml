@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">HatCersize</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="activate_controller_text">Activate controller to connect</string>
+    <string name="activate_controller">Activate controller</string>
+    <string name="deactivate_controller">Deactivate controller</string>
+    <string name="controller_status_active">Controller is active</string>
+    <string name="controller_status_inactive">Controller is inactive</string>
+    <string name="device_connected">Connected to: %1$s</string>
+    <string name="no_device_connected">No device connected</string>
+    <string name="step_count_string">Steps count</string>
+    <string name="step_count_number">Steps: %d</string>
+    <string name="turning_state_none">Turning: None</string>
+    <string name="turning_state_left">Turning: Left</string>
+    <string name="turning_state_right">Turning: Right</string>
+    <string name="save_coordinate">Save Coordinate</string>
+    <string name="clear_picker">Clear Picker</string>
+    <string name="pause">Pause the game</string>
+    <string name="screenshot_string">Take Screenshot</string>
+    <string name="interact_string">Interact with NPC</string>
+    <string name="dialogue_string">Fast forward dialogue</string>
+    <string name="activate_button_label_string">Activate</string>
+    <string name="deactivate_button_label_string">Deactivate</string>
+    <string name="pause_button_label_string">Pause</string>
+    <string name="screenshot_button_label_string">Screenshot</string>
+    <string name="interact_button_label_string">Interact</string>
+    <string name="dialogue_button_label_string">Next Dialogue</string>
+    <string name="tab_layout_desc">Tab for navigate fragments</string>
+
+    <string name="attack_button_label_string">Attack</string>
+    <string name="special_button_label_string">Special</string>
+
+
+</resources>
